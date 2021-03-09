@@ -1,0 +1,10 @@
+@import '~bpk-mixins';
+
+.App {
+  color: #a39eac;
+
+  &__main {
+    padding: $bpk-spacing-sm;
+    padding-top: 0;
+  }
+}
